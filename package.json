@@ -1,0 +1,26 @@
+{
+  "name": "andelabootcamp_22-day-3-lab-1",
+  "version": "1.0.0",
+  "description": "a function that reverses strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyWunderdog/andelabootcamp_22-day-3-lab-1.git"
+  },
+  "keywords": [
+    "\"string\"",
+    "\"reverse\""
+  ],
+  "author": "Gbenga Ode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillyWunderdog/andelabootcamp_22-day-3-lab-1/issues"
+  },
+  "homepage": "https://github.com/WillyWunderdog/andelabootcamp_22-day-3-lab-1#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
